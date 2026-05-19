@@ -2,7 +2,7 @@
 
 A simple and responsive Calculator Web Application developed using HTML, CSS, and JavaScript. This project performs basic arithmetic operations with an interactive and user-friendly interface.
 
-[Live Demo](Add your deployed website link here)
+[Live Demo](https://khushalraut706.github.io/Caculator/)
 
 ## Features
 *Basic Arithmetic Operations*
