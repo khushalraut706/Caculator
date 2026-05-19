@@ -6,9 +6,13 @@ A simple and responsive Calculator Web Application developed using HTML, CSS, an
 
 ## Features
 *Basic Arithmetic Operations*
+
 Addition
+
 Subtraction
+
 Multiplication
+
 Division
 
 ## Tech Stack
